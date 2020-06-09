@@ -1,9 +1,9 @@
 Code_Prefix,  Occupation
 11-0000, Management Occupations
 11-1000, Top Executives
-Nov-00," Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
-Nov-00, Operations Specialities Managers
-Nov-00, Other Management Occupations
+11-2000," Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
+11-3000, Operations Specialities Managers
+11-9000, Other Management Occupations
 13-0000, Business and Financial Operations Occupations
 13-1000, Business Operations Specialists
 13-2000, Financial Specialists
