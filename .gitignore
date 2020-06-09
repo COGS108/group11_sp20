@@ -1,3 +1,5 @@
 .ipynb_checkpoints/*
+eda/.ipynb_checkpoints*
+eda/michael/.ipynb_checkpoints*
 .DS_Store
 eda/statewageanalysis.ipynb
